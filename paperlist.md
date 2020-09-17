@@ -9,7 +9,40 @@
 - [ ] 沒報過
 - [x] 有報過
 :::
+## 2020 Conference Paper
+- [ ] Hummingbird: energy efficient GPS receiver for small satellites
+- [ ] Experience: advanced network operations in (Un)-connected remote communities
+- [x] Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks
+- [ ] Virtual Network Functions Orchestration in Software Defined LEO Small Satellite Networks
+- [ ] Power Allocation and User Clustering in Multicast NOMA based Satellite Communication Systems
+- [ ] LEO Satellite Communications with Massive MIMO
+- [ ] Multi-Satellite Multi-User MIMO Precoding: Testbed and Field Trial
+- [ ] Doppler Impact Analysis for NB-IoT and Satellite Systems Integration
+- [ ] A Stochastic Geometry Approach to Doppler Characterization in a LEO Satellite Network
+- [ ] New Radio Numerology and Waveform Evaluation for Satellite Integration into 5G Terrestrial Network
+- [ ] Adaptive Multi-Beam Arrangement for Improving Throughput in an HTS Communication System
+- [ ] Non-Terrestrial Networks: Link Budget Analysis
+- [ ] Tracking of Remote IoT Devices by Satellite Assisted Geolocation
+- [ ] Latency and timeliness in multi-hop satellite networks
+- [ ] Perceptive Packet Scheduling for Carrier Aggregation in Satellite Communication Systems
+- [x] Joint Satellite Gateway Placement and Routing for Integrated Satellite-Terrestrial Networks
+- [ ] Information-Centric Networking Application to Maritime Satellite Communications
+- [ ] Metaheuristic Approaches to the Joint Controller and Gateway Placement in 5G-Satellite SDN Networks
+- [ ] Satellite-Aerial Integrated Computing in Disasters: User Association and Offloading Decision
+- [ ] QoS-Aware Handover Strategies for Q/V Feeder Links in VHTS Systems
+- [ ] Enhancing CoAP Group Communication to Support mMTC Over Satellite Networks
+- [ ] Robust Energy-Efficient Multigroup Multicast Beamforming for Multi-Beam Satellite Communications
+- [ ] Branch-based Link Planning for Time-varying Space-air Integrated networks
+- [ ] Space Diversity-Based Grant-Free Random Access for Critical and Non-Critical IoT Services
+- [ ] Vehicular Positioning Using 5G Millimeter Wave and Sensor Fusion in Highway Scenarios
+- [ ] Decentralizing Multi-Operator Cognitive Radio Resource Allocation: An Asymptotic Analysis
 
+
+
+## 3GPP Specification
+- [x] Study on New Radio (NR) to support non-terrestrial networks, 3GPP, Jun. 2018, TS 38.811 V15.1.0.  (CH4, CH5)
+- [x] Coexistence between NB-IoT and NR, 3GPP, Nov. 2019, TR 37.824 V0.3.0
+- [x] Study on further enhancements to LTE Device to Device (D2D), UE to network relays for Internet of Things (IoT) and wearables, Apr. 3GPP, 2018, TR 36.746 V15.1.1, 
 
 ## 老師給的Handover論文 2020/8/2
 - [x] [3] B. Yang, Y. Wu, X. Chu, and G. Song, “Seamless handover in softwaredefined satellite networking,” IEEE Communications Letters, vol. 20, no. 9, pp. 1768–1771, 2016.
@@ -50,6 +83,8 @@
 - [x] On the use of network coding as a virtual network function in satellite-terrestrial CDNs
 - [x] Robust Secrecy Energy Efficient Beamforming in Satellite Communication Systems
 - [x] Deep Q-Learning Aided Networking, Caching, and Computing Resources Allocation in Software-Defined Satellite-Terrestrial Networks
+- [x] Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks
+
 ---
 
 #### CubeSAT
@@ -68,12 +103,14 @@
 - [x] TZ4Fabric: Executing Smart Contracts with ARM TrustZone
 - [x] TruZ-Droid: Integrating TrustZone with Mobile Operating
 - [x] TruZ-View: Developing TrustZone User Interface for Mobile OS Using Delegation Integration Model
+- [x] OFFLINE MODEL GUARD: Secure and Private ML on Mobile Devices
 ---
 
 ### UAV
 - [x] Dynamic Mobility-Aware Interference Avoidance for Aerial Base Stations in Cognitive Radio Networks
 - [x] Automating CSI Measurement with UAVs: from Problem Formulation to Energy-Optimal Solution
 - [x] User-Centric View of Unmanned Aerial Vehicle Transmission Against Smaet Attacks
+- [X] Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model 
 ---
 
 ### Network Security
