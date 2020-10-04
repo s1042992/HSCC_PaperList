@@ -1,3 +1,6 @@
+
+
+---
 # Paper List
 
 :::danger
@@ -25,16 +28,14 @@
 - [ ] Tracking of Remote IoT Devices by Satellite Assisted Geolocation
 - [ ] Latency and timeliness in multi-hop satellite networks
 - [ ] Perceptive Packet Scheduling for Carrier Aggregation in Satellite Communication Systems
-- [x] Joint Satellite Gateway Placement and Routing for Integrated Satellite-Terrestrial Networks
-- [ ] Information-Centric Networking Application to Maritime Satellite Communications
+- [ ] Joint Satellite Gateway Placement and Routing for Integrated Satellite-Terrestrial Networks
+- [x] Information-Centric Networking Application to Maritime Satellite Communications
 - [ ] Metaheuristic Approaches to the Joint Controller and Gateway Placement in 5G-Satellite SDN Networks
-- [ ] Satellite-Aerial Integrated Computing in Disasters: User Association and Offloading Decision
-- [ ] QoS-Aware Handover Strategies for Q/V Feeder Links in VHTS Systems
+- [x] Satellite-Aerial Integrated Computing in Disasters: User Association and Offloading Decision
+- [ ] QoS-Aware Handover Strategies for Q/V Feeder Links in VHTS Systems *GEO*
 - [ ] Enhancing CoAP Group Communication to Support mMTC Over Satellite Networks
 - [ ] Robust Energy-Efficient Multigroup Multicast Beamforming for Multi-Beam Satellite Communications
-- [ ] Branch-based Link Planning for Time-varying Space-air Integrated networks
-- [ ] Space Diversity-Based Grant-Free Random Access for Critical and Non-Critical IoT Services
-- [ ] Vehicular Positioning Using 5G Millimeter Wave and Sensor Fusion in Highway Scenarios
+- [x] Branch-based Link Planning for Time-varying Space-air Integrated networks
 - [ ] Decentralizing Multi-Operator Cognitive Radio Resource Allocation: An Asymptotic Analysis
 
 
@@ -84,7 +85,7 @@
 - [x] Robust Secrecy Energy Efficient Beamforming in Satellite Communication Systems
 - [x] Deep Q-Learning Aided Networking, Caching, and Computing Resources Allocation in Software-Defined Satellite-Terrestrial Networks
 - [x] Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks
-
+- [x] QoE-driven intelligent handover for user-centric mobile satellite networks
 ---
 
 #### CubeSAT
@@ -104,6 +105,17 @@
 - [x] TruZ-Droid: Integrating TrustZone with Mobile Operating
 - [x] TruZ-View: Developing TrustZone User Interface for Mobile OS Using Delegation Integration Model
 - [x] OFFLINE MODEL GUARD: Secure and Private ML on Mobile Devices
+- [x] TruApp: A TrustZone-based authenticity detection service for mobile apps
+- [x] Demystifying Arm TrustZone: A Comprehensive Survey
+- [x] Viola: Trustworthy Sensor Notiﬁcations for Enhanced Privacy on Mobile Systems
+- [x] TrustPAY:Trusted Mobile Payment on Security Enhanced ARM TrustZone Platforms
+- [ ] SecTEE: A Software-based Approach to Secure Enclave Architecture Using TEE
+- [x] SBLWT: A Secure Blockchain Lightweight Wallet Based on Trustzone
+- [x] PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software
+Using Emulation
+- [x] Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World
+- [x] AdAttester: Secure Online Mobile Advertisement Attestation Using TrustZone
+
 ---
 
 ### UAV
