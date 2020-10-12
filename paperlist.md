@@ -32,8 +32,8 @@
 - [x] Information-Centric Networking Application to Maritime Satellite Communications
 - [ ] Metaheuristic Approaches to the Joint Controller and Gateway Placement in 5G-Satellite SDN Networks
 - [x] Satellite-Aerial Integrated Computing in Disasters: User Association and Offloading Decision
-- [ ] QoS-Aware Handover Strategies for Q/V Feeder Links in VHTS Systems *GEO*
-- [ ] Enhancing CoAP Group Communication to Support mMTC Over Satellite Networks
+- [ ] QoS-Aware Handover Strategies for Q/V Feeder Links in VHTS Systems
+- [x] Enhancing CoAP Group Communication to Support mMTC Over Satellite Networks
 - [ ] Robust Energy-Efficient Multigroup Multicast Beamforming for Multi-Beam Satellite Communications
 - [x] Branch-based Link Planning for Time-varying Space-air Integrated networks
 - [ ] Decentralizing Multi-Operator Cognitive Radio Resource Allocation: An Asymptotic Analysis
@@ -86,6 +86,7 @@
 - [x] Deep Q-Learning Aided Networking, Caching, and Computing Resources Allocation in Software-Defined Satellite-Terrestrial Networks
 - [x] Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks
 - [x] QoE-driven intelligent handover for user-centric mobile satellite networks
+- [x] Collaborative Data Downloading by Using Inter-Satellite Links in LEO Satellite Networks
 ---
 
 #### CubeSAT
@@ -109,13 +110,14 @@
 - [x] Demystifying Arm TrustZone: A Comprehensive Survey
 - [x] Viola: Trustworthy Sensor Notiﬁcations for Enhanced Privacy on Mobile Systems
 - [x] TrustPAY:Trusted Mobile Payment on Security Enhanced ARM TrustZone Platforms
-- [ ] SecTEE: A Software-based Approach to Secure Enclave Architecture Using TEE
+- [x] SANCTUARY: ARMing TrustZone with User-space Enclaves
+- [x] SecTEE: A Software-based Approach to Secure Enclave Architecture Using TEE
 - [x] SBLWT: A Secure Blockchain Lightweight Wallet Based on Trustzone
 - [x] PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software
 Using Emulation
 - [x] Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World
 - [x] AdAttester: Secure Online Mobile Advertisement Attestation Using TrustZone
-
+- [x] SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems
 ---
 
 ### UAV
