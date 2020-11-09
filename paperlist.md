@@ -2,6 +2,11 @@
 
 ---
 # Paper List
+*hscc Github*
+
+Account: NCU-Hscc-Lab
+pass: ncuhscclab35330
+
 
 :::danger
 選論文時要注意出處，MobiCom、INFOCOM、SIGCOMM、ICC老師比較OK
@@ -87,6 +92,10 @@
 - [x] Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks
 - [x] QoE-driven intelligent handover for user-centric mobile satellite networks
 - [x] Collaborative Data Downloading by Using Inter-Satellite Links in LEO Satellite Networks
+- [x] Optimal Satellite Data Downloading to Multiple ESs by ISL Offloading in LEO Satellite Networks
+- [x] Beam Tracking for UAV Mounted SatCom on-the-Move With Massive Antenna Array
+- [x] Random Access Preamble Design and Detection for Mobile Satellite Communication Systems
+- [x] Load Balancing and QoS Supporting Access and Handover Decision Algorithm for GEO/LEO Heterogeneous Satellite Networks
 ---
 
 #### CubeSAT
@@ -118,6 +127,15 @@ Using Emulation
 - [x] Hypervision Across Worlds: Real-time Kernel Protection from the ARM TrustZone Secure World
 - [x] AdAttester: Secure Online Mobile Advertisement Attestation Using TrustZone
 - [x] SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems
+- [x] TrustShadow: Secure Execution of Unmodiﬁed Applications with ARM TrustZone
+- [x] MQT-TZ: Hardening IoT Brokers Using ARM TrustZone 
+- [x] Secloak: Arm trustzone-based mobile peripheral control 
+- [x] vTZ: Virtualizing ARM TrustZone
+- [x] Tabellion: Secure Legal Contracts on Mobile Devices
+- [x] VButton: Practical Attestation of User-driven Operations in Mobile Apps
+- [x] SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors
+- [x] TEECheck - Securing Intra-Vehicular Communication Using Trusted Execution
+- [x] Memory corruption attacks within Android TEEs: a case study based on OP-TEE
 ---
 
 ### UAV
