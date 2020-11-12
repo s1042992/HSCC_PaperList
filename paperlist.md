@@ -96,6 +96,9 @@ pass: ncuhscclab35330
 - [x] Beam Tracking for UAV Mounted SatCom on-the-Move With Massive Antenna Array
 - [x] Random Access Preamble Design and Detection for Mobile Satellite Communication Systems
 - [x] Load Balancing and QoS Supporting Access and Handover Decision Algorithm for GEO/LEO Heterogeneous Satellite Networks
+- [x] QoS Guaranteed Load Balancing in Broadband
+Multi-Beam Satellite Networks 
+
 ---
 
 #### CubeSAT
@@ -136,6 +139,8 @@ Using Emulation
 - [x] SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors
 - [x] TEECheck - Securing Intra-Vehicular Communication Using Trusted Execution
 - [x] Memory corruption attacks within Android TEEs: a case study based on OP-TEE
+- [x] RusTEE: Developing Memory-Safe ARM
+TrustZone Applications
 ---
 
 ### UAV
