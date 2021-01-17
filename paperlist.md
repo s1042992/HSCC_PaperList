@@ -98,6 +98,13 @@ pass: ncuhscclab35330
 - [x] Load Balancing and QoS Supporting Access and Handover Decision Algorithm for GEO/LEO Heterogeneous Satellite Networks
 - [x] QoS Guaranteed Load Balancing in Broadband
 Multi-Beam Satellite Networks 
+- [X] Location-Aware Load Balancing Routing Protocol
+for LEO Satellite Networks
+- [x] Channel Prediction Based Scheduling for Data Dissemination in VANETs
+- [x] Secure TDD MIMO Networks Against Training Sequence Based Eavesdropping Attack
+- [x] Multiuser MIMO Concept for Physical Layer Security in Multibeam Satellite Systems
+- [X] OPSPF: Orbit Prediction Shortest Path First Routing for Resilient LEO Satellite Networks
+
 
 ---
 
@@ -139,8 +146,15 @@ Using Emulation
 - [x] SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors
 - [x] TEECheck - Securing Intra-Vehicular Communication Using Trusted Execution
 - [x] Memory corruption attacks within Android TEEs: a case study based on OP-TEE
-- [x] RusTEE: Developing Memory-Safe ARM
-TrustZone Applications
+- [x] RusTEE: Developing Memory-Safe ARM TrustZone Application
+- [x] TrustICT: an efficient trusted interaction interface between isolated execution domains on ARM multi-core processors
+- [x] Reboot-Oriented IoT: Life Cycle Management in Trusted Execution Environment for Disposable IoT devices
+- [x] DarkneTZ: Towards Model Privacy at the Edge using Trusted
+      Execution Environments
+- [x] Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments
+- [x] RusTEE: Developing Memory-Safe ARM TrustZone Applications
+- [x] T-VMI: Trusted Virtual Machine Introspection in Cloud Environments
+- [x] StreamBox-TZ: Secure Stream Analytics at the Edge with TrustZone
 ---
 
 ### UAV
