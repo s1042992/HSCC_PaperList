@@ -18,7 +18,7 @@ pass: ncuhscclab35330
 - [x] 有報過
 :::
 ## 2020 Conference Paper
-- [ ] Hummingbird: energy efficient GPS receiver for small satellites
+- [x] Hummingbird: energy efficient GPS receiver for small satellites
 - [ ] Experience: advanced network operations in (Un)-connected remote communities
 - [x] Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks
 - [ ] Virtual Network Functions Orchestration in Software Defined LEO Small Satellite Networks
@@ -30,7 +30,7 @@ pass: ncuhscclab35330
 - [ ] New Radio Numerology and Waveform Evaluation for Satellite Integration into 5G Terrestrial Network
 - [ ] Adaptive Multi-Beam Arrangement for Improving Throughput in an HTS Communication System
 - [ ] Non-Terrestrial Networks: Link Budget Analysis
-- [ ] Tracking of Remote IoT Devices by Satellite Assisted Geolocation
+- [x] Tracking of Remote IoT Devices by Satellite Assisted Geolocation
 - [ ] Latency and timeliness in multi-hop satellite networks
 - [ ] Perceptive Packet Scheduling for Carrier Aggregation in Satellite Communication Systems
 - [ ] Joint Satellite Gateway Placement and Routing for Integrated Satellite-Terrestrial Networks
@@ -104,8 +104,11 @@ for LEO Satellite Networks
 - [x] Secure TDD MIMO Networks Against Training Sequence Based Eavesdropping Attack
 - [x] Multiuser MIMO Concept for Physical Layer Security in Multibeam Satellite Systems
 - [X] OPSPF: Orbit Prediction Shortest Path First Routing for Resilient LEO Satellite Networks
-
-
+- [X] A Two-layer Caching Model for Content Delivery Services in Satellite-terrestrial Networks
+- [X] Satellite Mobile Edge Computing: Improving QoS of High-Speed Satellite-Terrestrial
+Networks Using Edge Computing Techniques
+- [X] Zero-Forcing Precoding With Partial CSI in
+Multibeam High Throughput Satellite Systems
 ---
 
 #### CubeSAT
@@ -155,13 +158,28 @@ Using Emulation
 - [x] RusTEE: Developing Memory-Safe ARM TrustZone Applications
 - [x] T-VMI: Trusted Virtual Machine Introspection in Cloud Environments
 - [x] StreamBox-TZ: Secure Stream Analytics at the Edge with TrustZone
+- [x] TrustICE: Hardware-assisted Isolated Computing Environments on Mobile Devices
+- [x] SuiT: Secure User Interface Based on TrustZone
+- [x] TZ-MRAS: A Remote Attestation Scheme for the Mobile Terminal Based on ARM TrustZone
+- [x] App Developer Centric Trusted Execution Environment 
+- [ ] PrOS: Light-Weight Privatized Se cure OSes in ARM TrustZone
+- [x] Hardware-Backed Heist-Extracting ECDSA Keys from Qualcomm’s TrustZone
+- [x] The Security of ARM TrustZone in a FPGA-Based SoC
+- [x] On the Security Evaluation of the ARM TrustZone
+- [x] The Lazarus Effect: Healing Compromised Devices in the
+      Internet of Small Things
+---
+
+### Trusted execution environments
+- [x] Keystone: An Open Framework for Architecting TEEs
 ---
 
 ### UAV
 - [x] Dynamic Mobility-Aware Interference Avoidance for Aerial Base Stations in Cognitive Radio Networks
 - [x] Automating CSI Measurement with UAVs: from Problem Formulation to Energy-Optimal Solution
 - [x] User-Centric View of Unmanned Aerial Vehicle Transmission Against Smaet Attacks
-- [X] Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model 
+- [X] Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model
+- [X] Privaros: A Framework for Privacy-Compliant Delivery Drones 
 ---
 
 ### Network Security
@@ -177,10 +195,15 @@ Using Emulation
 
 ### BlockChain
 - [x] Blockchain and IoT Integration A Systematic Survey
+- [x] Blockchain-based Identity Management with Mobile Device
 ---
 
 ### Positioning/Locationing
 - [x] Passive RFID-based Indoor Positioning System, An Algorithmic Approach
+---
+
+### RFID
+- [x] Passive UHF RFID Interrogation System Using Wireless RFID Repeater Nodes
 ---
 
 ### AIOT
@@ -210,7 +233,7 @@ Using Emulation
 - [x] Index Modulation for 5G Striving to Do More with Less
 - [x] Reinforcement Learning based QoS/QoE-awareService Function Chaining in Software-Driven 5G Slices
 - [x] Intelligent Architecture for Mobile HetNet in B5G
-
+- [x] Deep-Learning-Based Millimeter-Wave Massive MIMO for Hybrid Precoding 
 
 
 ## 無線通訊期末報告paper
