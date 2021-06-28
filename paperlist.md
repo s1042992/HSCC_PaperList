@@ -19,21 +19,21 @@ pass: ncuhscclab35330
 :::
 ## 2020 Conference Paper
 - [x] Hummingbird: energy efficient GPS receiver for small satellites
-- [ ] Experience: advanced network operations in (Un)-connected remote communities
+- [x] Experience: advanced network operations in (Un)-connected remote communities
 - [x] Dynamically Adaptive Cooperation Transmission among Satellite-Ground Integrated Networks
-- [ ] Virtual Network Functions Orchestration in Software Defined LEO Small Satellite Networks
+- [x] Virtual Network Functions Orchestration in Software Defined LEO Small Satellite Networks
 - [ ] Power Allocation and User Clustering in Multicast NOMA based Satellite Communication Systems
 - [ ] LEO Satellite Communications with Massive MIMO
 - [ ] Multi-Satellite Multi-User MIMO Precoding: Testbed and Field Trial
 - [ ] Doppler Impact Analysis for NB-IoT and Satellite Systems Integration
 - [ ] A Stochastic Geometry Approach to Doppler Characterization in a LEO Satellite Network
 - [ ] New Radio Numerology and Waveform Evaluation for Satellite Integration into 5G Terrestrial Network
-- [ ] Adaptive Multi-Beam Arrangement for Improving Throughput in an HTS Communication System
+- [x] Adaptive Multi-Beam Arrangement for Improving Throughput in an HTS Communication System
 - [ ] Non-Terrestrial Networks: Link Budget Analysis
 - [x] Tracking of Remote IoT Devices by Satellite Assisted Geolocation
 - [ ] Latency and timeliness in multi-hop satellite networks
 - [ ] Perceptive Packet Scheduling for Carrier Aggregation in Satellite Communication Systems
-- [ ] Joint Satellite Gateway Placement and Routing for Integrated Satellite-Terrestrial Networks
+- [x] Joint Satellite Gateway Placement and Routing for Integrated Satellite-Terrestrial Networks
 - [x] Information-Centric Networking Application to Maritime Satellite Communications
 - [ ] Metaheuristic Approaches to the Joint Controller and Gateway Placement in 5G-Satellite SDN Networks
 - [x] Satellite-Aerial Integrated Computing in Disasters: User Association and Offloading Decision
@@ -105,10 +105,13 @@ for LEO Satellite Networks
 - [x] Multiuser MIMO Concept for Physical Layer Security in Multibeam Satellite Systems
 - [X] OPSPF: Orbit Prediction Shortest Path First Routing for Resilient LEO Satellite Networks
 - [X] A Two-layer Caching Model for Content Delivery Services in Satellite-terrestrial Networks
-- [X] Satellite Mobile Edge Computing: Improving QoS of High-Speed Satellite-Terrestrial
-Networks Using Edge Computing Techniques
-- [X] Zero-Forcing Precoding With Partial CSI in
-Multibeam High Throughput Satellite Systems
+- [X] Satellite Mobile Edge Computing: Improving QoS of High-Speed Satellite-Terrestrial Networks Using Edge Computing Techniques
+- [X] Zero-Forcing Precoding With Partial CSI in Multibeam High Throughput Satellite Systems
+- [X] Massive MIMO Transmission for LEO Satellite Communications
+- [X] QoS-Guarantee Resource Allocation for
+Multibeam Satellite Industrial Internet of Things
+With NOMA
+- [X] QoE-Assured Live Streaming via Satellite Backhaul in 5G Networks
 ---
 
 #### CubeSAT
@@ -166,12 +169,18 @@ Using Emulation
 - [x] Hardware-Backed Heist-Extracting ECDSA Keys from Qualcomm’s TrustZone
 - [x] The Security of ARM TrustZone in a FPGA-Based SoC
 - [x] On the Security Evaluation of the ARM TrustZone
-- [x] The Lazarus Effect: Healing Compromised Devices in the
+- [x] The Lazarus Effect: Healing Compromised Devices in the Internet of Small Things
+- [x] TrustyShare: A Sharing Scheme using ARM TrustZone
       Internet of Small Things
 ---
 
 ### Trusted execution environments
 - [x] Keystone: An Open Framework for Architecting TEEs
+---
+
+###  Embedded system
+- [x] C-FLAT: Control-Flow Attestation
+for Embedded Systems Software
 ---
 
 ### UAV
@@ -187,6 +196,7 @@ Using Emulation
 - [x] Secret-Free In-band Trust Establishment for COTS Wireless Devices
 - [x] Deep Learning-Based Dynamic Watermarking for Secure Signal Authentication in the Internet of Things
 - [x] Deep Learning for Signal Authentication and Security in Massive Internet-of-Things Systems
+- [x] Securing Channel State Information in Multiuser MIMO With Limited Feedback 
 ---
 
 ### Cognitive Radio
@@ -213,6 +223,10 @@ Using Emulation
 - [x] Intelligence in IoT-Based 5G Networks Opportunities and Challenges
 - [x] A Secure Mobile Crowdsensing Game With Deep Reinforcement Learning 
 - [x] A Survey of Artiﬁcial Intelligence for Cognitive Radios
+---
+
+### IOT
+- [x] RESCURE: A security solution for IoT life cycle
 ---
 
 ### Decoding/Precoding
